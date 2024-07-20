@@ -1,0 +1,5 @@
+com/pih/cache/entity/City.class
+com/pih/cache/repository/CityRepository.class
+com/pih/cache/service/CityService.class
+com/pih/cache/controller/CityController.class
+com/pih/cache/SpringHibernate2levelCacheApplication.class
